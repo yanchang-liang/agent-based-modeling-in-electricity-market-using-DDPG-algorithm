@@ -12,7 +12,7 @@ Agent-Based Modeling in Electricity Market Using Deep Deterministic Policy Gradi
 python run_VRE_3-bus.py
 ```
 
-![VRE](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/tree/master/results/VRE.png)
+![VRE](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/VRE.png)
 
 * Q-Learning algorithm in 3-bus system
 
@@ -20,7 +20,7 @@ python run_VRE_3-bus.py
 python run_Q-Learning_3-bus.py
 ```
 
-![Q-Learning](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/tree/master/results/Q-Learning.png)
+![Q-Learning](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/Q-Learning.png)
 
 * DDPG algorithm in 3-bus system
 
@@ -28,7 +28,7 @@ python run_Q-Learning_3-bus.py
 python run_DDPG_3-bus.py
 ```
 
-![DDPG-3](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/tree/master/results/DDPG_3_bus.png)
+![DDPG-3](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_3_bus.png)
 
 * DDPG algorithm in 30-bus system
 
@@ -36,4 +36,4 @@ python run_DDPG_3-bus.py
 python run_DDPG_30-bus.py
 ```
 
-![DDPG-30](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/tree/master/results/DDPG_30_bus.png)
+![DDPG-30](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_30_bus.png)
