@@ -14,7 +14,7 @@ python run_VRE_3-bus.py
 
 ![VRE](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/VRE.png)
 
-* Q-Learning algorithm in 3-bus system
+* Q-Learning algorithm in 3-bus system:
 
 ```
 python run_Q-Learning_3-bus.py
