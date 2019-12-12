@@ -28,7 +28,7 @@ python run_Q-Learning_3-bus.py
 python run_DDPG_3-bus.py
 ```
 
-![DDPG-3](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_3_bus.png)
+![DDPG-3](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_30_bus.png)
 
 * DDPG algorithm in 30-bus system:
 
@@ -36,6 +36,6 @@ python run_DDPG_3-bus.py
 python run_DDPG_30-bus.py
 ```
 
-![DDPG-30](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_30_bus.png)
+![DDPG-30](https://github.com/liangyancang/agent-based-modeling-in-electricity-market-using-DDPG-algorithm/blob/master/results/DDPG_3_bus.png)
 
 ## TODO
