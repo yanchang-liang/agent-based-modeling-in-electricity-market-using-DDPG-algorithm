@@ -35,7 +35,7 @@ def market_clearing(alpha):
     P = matrix(np.diag(np.append(b_real, d_real)))
     q = matrix(np.append(alpha, c_real))
     G = matrix(np.vstack((J, -J, np.diag(-np.ones(4)), np.diag(np.ones(4)))))
-    h = matrix(np.hstack((J_max, p_min, q_min, p_max, q_max)))
+    h = matrix(np.hstack((J_max, -p_min, -q_min, p_max, q_max)))
     A = matrix(np.hstack((-np.ones(2), np.ones(2)))).T
     b = matrix(0.0)
 
